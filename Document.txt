@@ -1,1 +1,1 @@
-Hello world
+client.send (Announcements, hello world)
